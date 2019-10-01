@@ -1,0 +1,13 @@
+EM-00001;;;;;;
+EM-00002;abdou;ka;31/15/1999;40000;770803827;athieka93@gmail.com
+EM-00003;joe;hd;21/01/1999;30000;770803827;hhdhjd@gmail.com
+EM-00004;adji;ka;21/01/1999;50000;772693534;gfg@gmail.com
+EM-00005;idy;gueye;21/09/2011;100000;772693534;Ypnsenegal@gmail.com
+EM-00006;khady;ka;05/07/1997;100000;772693534;gfg@gmail.com
+EM-00007;ousmane;diop;25/06/1988;150000;770303258;ouz25@gmail.com
+EM-00008;lamine;diouf;21/01/1999;150000;772693534;gfg@gmail.com
+EM-00009;omar;ndiaye;25/02/1986;75000;768254832;omzo@gmail.com
+EM-00010;oulimata;sow;24/05/1994;125000;782445258;gfg@gmail.com
+EM-00011;saliou;thiam;25/04/1991;120000;772446621;saliou001@gmail.com
+EM-00012;samba;tambédou;21/05/1998;1500000;772464728;samba@gmail.com
+EM-00013;assane;faye;25/02/1993;90000;778002500;fayassane@gmail.com

@@ -1,0 +1,19 @@
+table{
+	border-collapse: collapse;
+}
+th,td{
+	border: 1px solid black;
+}
+th{
+	background-color: red;
+}
+td{
+	background-color: blue;
+	color: white;
+}
+.sup{
+	color: red;
+}
+.modif{
+	color: orange;
+}
